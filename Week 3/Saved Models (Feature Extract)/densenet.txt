@@ -1,0 +1,106 @@
+Initializing Datasets and Dataloaders...
+Params to learn:
+	 classifier.weight
+	 classifier.bias
+Epoch 0/19
+----------
+train Loss: 2.0313 Acc: 0.4078
+val Loss: 1.4676 Acc: 0.5553
+
+Epoch 1/19
+----------
+train Loss: 1.1800 Acc: 0.6992
+val Loss: 1.0868 Acc: 0.7265
+
+Epoch 2/19
+----------
+train Loss: 0.8927 Acc: 0.7807
+val Loss: 0.9760 Acc: 0.7265
+
+Epoch 3/19
+----------
+train Loss: 0.7384 Acc: 0.8253
+val Loss: 0.8326 Acc: 0.7850
+
+Epoch 4/19
+----------
+train Loss: 0.6289 Acc: 0.8695
+val Loss: 0.7766 Acc: 0.8100
+
+Epoch 5/19
+----------
+train Loss: 0.5528 Acc: 0.8847
+val Loss: 0.7162 Acc: 0.8184
+
+Epoch 6/19
+----------
+train Loss: 0.5254 Acc: 0.8852
+val Loss: 0.6794 Acc: 0.8058
+
+Epoch 7/19
+----------
+train Loss: 0.4689 Acc: 0.9102
+val Loss: 0.6776 Acc: 0.8142
+
+Epoch 8/19
+----------
+train Loss: 0.4311 Acc: 0.9132
+val Loss: 0.6304 Acc: 0.8267
+
+Epoch 9/19
+----------
+train Loss: 0.4008 Acc: 0.9225
+val Loss: 0.6421 Acc: 0.8184
+
+Epoch 10/19
+----------
+train Loss: 0.3750 Acc: 0.9249
+val Loss: 0.6167 Acc: 0.8309
+
+Epoch 11/19
+----------
+train Loss: 0.3577 Acc: 0.9338
+val Loss: 0.5997 Acc: 0.8225
+
+Epoch 12/19
+----------
+train Loss: 0.3254 Acc: 0.9436
+val Loss: 0.5792 Acc: 0.8142
+
+Epoch 13/19
+----------
+train Loss: 0.3182 Acc: 0.9396
+val Loss: 0.5568 Acc: 0.8351
+
+Epoch 14/19
+----------
+train Loss: 0.2998 Acc: 0.9485
+val Loss: 0.5466 Acc: 0.8476
+
+Epoch 15/19
+----------
+train Loss: 0.2830 Acc: 0.9549
+val Loss: 0.5762 Acc: 0.8476
+
+Epoch 16/19
+----------
+train Loss: 0.2751 Acc: 0.9524
+val Loss: 0.5340 Acc: 0.8309
+
+Epoch 17/19
+----------
+train Loss: 0.2546 Acc: 0.9632
+val Loss: 0.5567 Acc: 0.8351
+
+Epoch 18/19
+----------
+train Loss: 0.2454 Acc: 0.9657
+val Loss: 0.5203 Acc: 0.8309
+
+Epoch 19/19
+----------
+train Loss: 0.2577 Acc: 0.9549
+val Loss: 0.5314 Acc: 0.8434
+
+Training complete in 9m 44s
+Best val Acc: 0.847599

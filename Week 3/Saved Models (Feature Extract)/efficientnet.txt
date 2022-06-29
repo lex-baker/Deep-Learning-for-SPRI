@@ -1,0 +1,102 @@
+Epoch 0/19
+----------
+train Loss: 2.6963 Acc: 0.2439
+val Loss: 2.6006 Acc: 0.4342
+
+Epoch 1/19
+----------
+train Loss: 2.2965 Acc: 0.5182
+val Loss: 2.1888 Acc: 0.5720
+
+Epoch 2/19
+----------
+train Loss: 1.9930 Acc: 0.6060
+val Loss: 1.9545 Acc: 0.6221
+
+Epoch 3/19
+----------
+train Loss: 1.7897 Acc: 0.6536
+val Loss: 1.7873 Acc: 0.6472
+
+Epoch 4/19
+----------
+train Loss: 1.6014 Acc: 0.6963
+val Loss: 1.6640 Acc: 0.6305
+
+Epoch 5/19
+----------
+train Loss: 1.4697 Acc: 0.7159
+val Loss: 1.5534 Acc: 0.6722
+
+Epoch 6/19
+----------
+train Loss: 1.3520 Acc: 0.7512
+val Loss: 1.4763 Acc: 0.6639
+
+Epoch 7/19
+----------
+train Loss: 1.2763 Acc: 0.7596
+val Loss: 1.4055 Acc: 0.6764
+
+Epoch 8/19
+----------
+train Loss: 1.2031 Acc: 0.7674
+val Loss: 1.3471 Acc: 0.6973
+
+Epoch 9/19
+----------
+train Loss: 1.1361 Acc: 0.7718
+val Loss: 1.2984 Acc: 0.6931
+
+Epoch 10/19
+----------
+train Loss: 1.0805 Acc: 0.7846
+val Loss: 1.2560 Acc: 0.7056
+
+Epoch 11/19
+----------
+train Loss: 1.0541 Acc: 0.7851
+val Loss: 1.2149 Acc: 0.7098
+
+Epoch 12/19
+----------
+train Loss: 0.9924 Acc: 0.8013
+val Loss: 1.1877 Acc: 0.7140
+
+Epoch 13/19
+----------
+train Loss: 0.9625 Acc: 0.8013
+val Loss: 1.1511 Acc: 0.7182
+
+Epoch 14/19
+----------
+train Loss: 0.9469 Acc: 0.8008
+val Loss: 1.1222 Acc: 0.7265
+
+Epoch 15/19
+----------
+train Loss: 0.9023 Acc: 0.8106
+val Loss: 1.1009 Acc: 0.7223
+
+Epoch 16/19
+----------
+train Loss: 0.8790 Acc: 0.8204
+val Loss: 1.0805 Acc: 0.7349
+
+Epoch 17/19
+----------
+train Loss: 0.8351 Acc: 0.8258
+val Loss: 1.0595 Acc: 0.7349
+
+Epoch 18/19
+----------
+train Loss: 0.8261 Acc: 0.8297
+val Loss: 1.0489 Acc: 0.7390
+
+Epoch 19/19
+----------
+train Loss: 0.8036 Acc: 0.8386
+val Loss: 1.0241 Acc: 0.7516
+
+Training complete in 11m 3s
+Best val Acc: 0.751566

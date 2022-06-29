@@ -1,0 +1,104 @@
+Epoch 0/19
+----------
+/opt/conda/lib/python3.7/site-packages/torch/nn/functional.py:780: UserWarning: Note that order of the arguments: ceil_mode and return_indices will changeto match the args list in nn.MaxPool2d in a future release.
+  warnings.warn("Note that order of the arguments: ceil_mode and return_indices will change"
+train Loss: 1.5758 Acc: 0.5098
+val Loss: 0.8737 Acc: 0.7182
+
+Epoch 1/19
+----------
+train Loss: 0.6880 Acc: 0.7767
+val Loss: 0.6039 Acc: 0.8288
+
+Epoch 2/19
+----------
+train Loss: 0.4885 Acc: 0.8474
+val Loss: 0.6673 Acc: 0.7829
+
+Epoch 3/19
+----------
+train Loss: 0.3971 Acc: 0.8798
+val Loss: 0.4867 Acc: 0.8622
+
+Epoch 4/19
+----------
+train Loss: 0.3264 Acc: 0.9009
+val Loss: 0.4933 Acc: 0.8413
+
+Epoch 5/19
+----------
+train Loss: 0.3118 Acc: 0.8955
+val Loss: 0.4593 Acc: 0.8559
+
+Epoch 6/19
+----------
+train Loss: 0.2899 Acc: 0.9063
+val Loss: 0.4154 Acc: 0.8706
+
+Epoch 7/19
+----------
+train Loss: 0.2275 Acc: 0.9308
+val Loss: 0.3821 Acc: 0.8956
+
+Epoch 8/19
+----------
+train Loss: 0.2176 Acc: 0.9338
+val Loss: 0.4595 Acc: 0.8747
+
+Epoch 9/19
+----------
+train Loss: 0.2094 Acc: 0.9387
+val Loss: 0.3716 Acc: 0.9040
+
+Epoch 10/19
+----------
+train Loss: 0.1711 Acc: 0.9578
+val Loss: 0.4118 Acc: 0.8914
+
+Epoch 11/19
+----------
+train Loss: 0.1779 Acc: 0.9441
+val Loss: 0.3833 Acc: 0.8914
+
+Epoch 12/19
+----------
+train Loss: 0.1668 Acc: 0.9568
+val Loss: 0.3425 Acc: 0.9040
+
+Epoch 13/19
+----------
+train Loss: 0.1524 Acc: 0.9568
+val Loss: 0.4219 Acc: 0.8873
+
+Epoch 14/19
+----------
+train Loss: 0.1656 Acc: 0.9514
+val Loss: 0.3490 Acc: 0.9165
+
+Epoch 15/19
+----------
+train Loss: 0.1340 Acc: 0.9637
+val Loss: 0.4265 Acc: 0.8831
+
+Epoch 16/19
+----------
+train Loss: 0.1291 Acc: 0.9657
+val Loss: 0.3881 Acc: 0.9207
+
+Epoch 17/19
+----------
+train Loss: 0.1131 Acc: 0.9725
+val Loss: 0.3541 Acc: 0.9040
+
+Epoch 18/19
+----------
+train Loss: 0.1143 Acc: 0.9706
+val Loss: 0.3389 Acc: 0.9081
+
+Epoch 19/19
+----------
+train Loss: 0.1113 Acc: 0.9745
+val Loss: 0.3310 Acc: 0.9207
+
+Training complete in 8m 48s
+Best val Acc: 0.920668
