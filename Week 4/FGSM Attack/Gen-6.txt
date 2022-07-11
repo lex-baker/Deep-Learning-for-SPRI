@@ -1,0 +1,12 @@
+correct 459.0
+total 479
+Loss = 0.4966287513719698
+Accuracy = 0.9582463465553236
+beginning attack:
+Epsilon: 0      Test Accuracy = 455 / 479 = 0.9498956158663883
+Epsilon: 0.05   Test Accuracy = 447 / 479 = 0.9331941544885177
+Epsilon: 0.1    Test Accuracy = 443 / 479 = 0.9248434237995825
+Epsilon: 0.15   Test Accuracy = 443 / 479 = 0.9248434237995825
+Epsilon: 0.2    Test Accuracy = 441 / 479 = 0.9206680584551148
+Epsilon: 0.25   Test Accuracy = 435 / 479 = 0.9081419624217119
+Epsilon: 0.3    Test Accuracy = 433 / 479 = 0.9039665970772442
