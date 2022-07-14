@@ -1,0 +1,5 @@
+inception
+----------------------------------------------------------------------
+FastGradientMethod, No Defenses
+eps=.3
+Accuracy on FastGradientMethod-attacked, undefended test examples: 95.19832985386222%

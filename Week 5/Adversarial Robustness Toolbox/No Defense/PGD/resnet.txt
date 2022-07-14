@@ -1,0 +1,5 @@
+No Attack, No Defenses
+Accuracy on benign test examples: 94.98956158663883%
+----------------------------------------------------------------------
+PGD Attack, No Defenses
+Accuracy on PGD-attacked, undefended test examples: 49.26931106471816%

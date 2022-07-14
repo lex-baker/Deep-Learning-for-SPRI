@@ -1,0 +1,11 @@
+**********************************************************************
+efficientnet
+----------------------------------------------------------------------
+No Attack, No Defenses
+Accuracy on benign test examples: 95.4070981210856%
+----------------------------------------------------------------------
+No Attack, All Defenses
+Accuracy on benign, defended test examples: 95.4070981210856%
+----------------------------------------------------------------------
+ProjectedGradientDescent
+Accuracy on PGD-attacked and defended test examples: 90.18789144050105%

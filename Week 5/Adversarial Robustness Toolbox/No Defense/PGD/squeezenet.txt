@@ -1,0 +1,7 @@
+squeezenet
+----------------------------------------------------------------------
+No Attack
+Accuracy on benign test examples: 95.61586638830897%
+----------------------------------------------------------------------
+ProjectedGradientDescent
+Accuracy on PGD test examples: 59.49895615866389%

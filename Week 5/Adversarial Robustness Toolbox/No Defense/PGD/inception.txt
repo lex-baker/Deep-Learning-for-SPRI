@@ -1,0 +1,7 @@
+inception
+----------------------------------------------------------------------
+No Attack
+Accuracy on benign test examples: 97.4947807933194%
+----------------------------------------------------------------------
+ProjectedGradientDescent
+Accuracy on PGD test examples: 56.158663883089766%

@@ -1,0 +1,10 @@
+inception
+----------------------------------------------------------------------
+No Attack, No Defenses
+Accuracy on benign test examples: 97.4947807933194%
+----------------------------------------------------------------------
+No Attack, All Defenses
+Accuracy on benign, defended test examples: 97.4947807933194%
+----------------------------------------------------------------------
+ProjectedGradientDescentPyTorch
+Accuracy on PGD-attacked and defended test examples: 90.81419624217119%

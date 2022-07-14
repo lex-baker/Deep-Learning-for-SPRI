@@ -1,0 +1,12 @@
+
+efficientnet
+----------------------------------------------------------------------
+<art.attacks.evasion.fast_gradient.FastGradientMethod object at 0x7fd3b39cbc90>
+eps = .1
+Accuracy on benign test examples: 95.40709686279297%
+Accuracy on adversarial test examples: 93.11064910888672%
+----------------------------------------------------------------------
+<art.attacks.evasion.fast_gradient.FastGradientMethod object at 0x7fd3b39cbc10>
+eps = .3
+Accuracy on benign test examples: 95.40709686279297%
+Accuracy on adversarial test examples: 92.27557373046875%
