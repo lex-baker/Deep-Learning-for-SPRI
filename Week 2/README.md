@@ -1,3 +1,3 @@
-Week 2 files and code.
+# Week 2
 
 Learned about transfer learning, data augmentation, and model invariance.
